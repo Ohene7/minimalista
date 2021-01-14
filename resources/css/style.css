@@ -10,7 +10,7 @@ html, body {
   width: 100%;
   font-family: "Poppins", sans-serif;
   background-color: #eeeff1;
-  background: url('https://images.unsplash.com/photo-1471086569966-db3eebc25a59?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80') no-repeat 70% 100%/cover;
+  background: url('/resources/img/plant.jpg') no-repeat 70% 100%/cover;
   text-transform: lowercase;
 }
 
